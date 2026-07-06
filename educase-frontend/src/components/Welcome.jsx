@@ -20,7 +20,7 @@ const Welcome = () => {
         <div className="mt-6 space-y-3">
             <Link to='/signup'>
           <button className="w-full bg-purple-600 text-white font-semibold py-2 px-4 rounded hover:bg-purple-700 transition">
-            Create account.
+            Create account
           </button>
             </Link>
          <Link to='/login' >
