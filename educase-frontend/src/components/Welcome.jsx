@@ -12,7 +12,7 @@ const Welcome = () => {
 
         {/* Placeholder Text */}
         <p className="text-gray-600 mt-2">
-          Lorem i, <br />
+          Lorem <br />
           
         </p>
 
